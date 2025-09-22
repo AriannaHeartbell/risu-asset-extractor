@@ -5,7 +5,7 @@
 # 관련련
 
 ### 1. RisuAI
-- **GitHub**: [https://github.com/kwanorama/RisuAI](https://github.com/kwanorama/RisuAI)
+- **GitHub**: [https://github.com/kwaroran/RisuAI](https://github.com/kwaroran/RisuAI)
 - **관련 파일** (from `src/rpack`):
   - `rpack_bg.js`
   - `rpack_bg.wasm`  
