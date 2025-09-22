@@ -7,8 +7,8 @@
 ### 1. RisuAI
 - **GitHub**: [https://github.com/kwanorama/RisuAI](https://github.com/kwanorama/RisuAI)
 - **관련 파일** (from `src/npack`):
-  - `npack_bg.js`
-  - `npack_bg.wasm`  
+  - `rpack_bg.js`
+  - `rpack_bg.wasm`  
     - **SHA256**: `9062CD20DCD624A998381CA5F5B1514D9A956289E93CF759FD1A6A9E532874ED`
 
 
