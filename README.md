@@ -12,5 +12,5 @@
     - **SHA256**: `9062CD20DCD624A998381CA5F5B1514D9A956289E93CF759FD1A6A9E532874ED`
 
 
-### 2. 이 리포는 에셋 추출용이라 Risup / Risuprest 은 안 다루나 관련 정보가 궁금하면 다음 리포를 참조. charx/module의 구조와  관련해서도 참조하면 좋으나 뒤늦게 해당 리포의 알게 되어 이 리포에서는 에셋 추출을 통합하질 못하고 따로따로 작업하게 됨.
+### 2. 이 리포는 에셋 추출용이라 템플릿은 안 다루나 관련 정보가 궁금하면 다음 리포를 참조.
 - **GitHub**: [https://github.com/snuff8729/RisuExtractUtil](https://github.com/snuff8729/RisuExtractUtil)
