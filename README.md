@@ -2,7 +2,7 @@
 - 봇카드: charx, png, jpeg(명시하진 않았으나 확인) 내 이미지 음성 등등 에셋 추출가능.
 - risum 모듈 속 이미지나 음성파일 등 에셋 추출 가능. 단 charx_png들과 다르게 이쪽은 node.js 설치 필요. 해당 폴더에서 cmd를 열고 npx serve라고 입력하면 나오는 로컬 경로를 브라우저에 입력해해 접속.
 
-# 관련련
+# 관련
 
 ### 1. RisuAI
 - **GitHub**: [https://github.com/kwaroran/RisuAI](https://github.com/kwaroran/RisuAI)
