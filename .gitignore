@@ -1,0 +1,48 @@
+# ===============================
+# Python
+# ===============================
+
+# Virtual Environments
+venv/
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# PyInstaller build artifacts
+build/
+dist/
+*.spec
+
+# ===============================
+# Frontend / Node.js
+# ===============================
+
+# Node.js dependencies
+# npx를 사용하시므로 node_modules는 필수적으로 추가해야 합니다.
+node_modules/
+
+# Log files
+*.log
+npm-debug.log*
+yarn-error.log
+
+# ===============================
+# IDE & Editor specific
+# ===============================
+
+# VS Code
+.vscode/
+
+# ===============================
+# OS specific
+# ===============================
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
