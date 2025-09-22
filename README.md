@@ -1,4 +1,7 @@
 # 참조
+- 봇카드: charx, png, jpeg(명시하진 않았으나 확인) 추출가능.
+
+# 그외
 
 ### 1. RisuAI
 - **GitHub**: [https://github.com/kwanorama/RisuAI](https://github.com/kwanorama/RisuAI)
